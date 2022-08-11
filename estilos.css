@@ -4,8 +4,9 @@ header{
 img{
     border-radius: 50%;
     border: 8px solid gray;
+    width: 200px;
+    height: 200px;
 }
-
 .titulo{
     font-size: 38px;
     color: darkblue;
@@ -15,7 +16,6 @@ img{
     color: darkred;
 }
 .contato{
-    
     font-size: 18px;
     font-family: Arial;
     font-weight: bold;
@@ -23,4 +23,18 @@ img{
 }
 body{
     background-color: aquamarine;
+}
+
+h3{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+    color:brown; 
+}
+li{
+    font-size: 16px;
+    font-family: Arial;
+    line-height: 150%;
+    color:blue;
 }
